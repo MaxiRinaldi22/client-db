@@ -1,0 +1,1649 @@
+[
+  {
+    "id": "6b787078-ec4a-4c56-89db-8f285af0ceb4",
+    "name": "Joaquin Lopez",
+    "cedula": "55745459",
+    "date": "2024-12-24",
+    "status": "Pagado",
+    "phone": "092024301",
+    "updateAt": "2024-12-26T15:34:08.045Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "ae5f5069-c497-4a85-b4b6-ad79057914ac",
+    "name": "Josefina Perez",
+    "cedula": "33558236",
+    "date": "2024-12-06",
+    "status": "Pagado",
+    "phone": "094797701",
+    "updateAt": "2024-12-26T15:36:51.521Z",
+    "paymentHistory": {
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-006",
+    "name": "Cliente 6",
+    "cedula": "12345684",
+    "date": "2024-12-06",
+    "status": "Pagado",
+    "phone": "090000000",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-007",
+    "name": "Cliente 7",
+    "cedula": "12345685",
+    "date": "2024-12-07",
+    "status": "Pagado",
+    "phone": "090000000",
+    "updateAt": "2024-12-26T17:13:29.971Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-008",
+    "name": "Cliente 8",
+    "cedula": "12345686",
+    "date": "2024-12-08",
+    "status": "Pendiente",
+    "phone": "090000000",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-009",
+    "name": "Cliente 9",
+    "cedula": "12345687",
+    "date": "2024-12-09",
+    "status": "Pagado",
+    "phone": "090000000",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-010",
+    "name": "Cliente 10",
+    "cedula": "12345688",
+    "date": "2024-12-10",
+    "status": "Pendiente",
+    "phone": "090000001",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": false,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-011",
+    "name": "Cliente 11",
+    "cedula": "12345689",
+    "date": "2024-12-11",
+    "status": "Pendiente",
+    "phone": "090000001",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-012",
+    "name": "Cliente 12",
+    "cedula": "12345690",
+    "date": "2024-12-12",
+    "status": "Pagado",
+    "phone": "090000001",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-013",
+    "name": "Cliente 13",
+    "cedula": "12345691",
+    "date": "2024-12-13",
+    "status": "Pendiente",
+    "phone": "090000001",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-014",
+    "name": "Cliente 14",
+    "cedula": "12345692",
+    "date": "2024-12-14",
+    "status": "Pendiente",
+    "phone": "090000001",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-015",
+    "name": "Cliente 15",
+    "cedula": "12345693",
+    "date": "2024-12-15",
+    "status": "Pagado",
+    "phone": "090000001",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": false,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-016",
+    "name": "Cliente 16",
+    "cedula": "12345694",
+    "date": "2024-12-16",
+    "status": "Pendiente",
+    "phone": "090000001",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-017",
+    "name": "Cliente 17",
+    "cedula": "12345695",
+    "date": "2024-12-17",
+    "status": "Pendiente",
+    "phone": "090000001",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-018",
+    "name": "Cliente 18",
+    "cedula": "12345696",
+    "date": "2024-12-18",
+    "status": "Pagado",
+    "phone": "090000001",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-019",
+    "name": "Cliente 19",
+    "cedula": "12345697",
+    "date": "2024-12-19",
+    "status": "Pendiente",
+    "phone": "090000001",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-020",
+    "name": "Cliente 20",
+    "cedula": "12345698",
+    "date": "2024-12-20",
+    "status": "Pendiente",
+    "phone": "090000002",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": false,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-021",
+    "name": "Cliente 21",
+    "cedula": "12345699",
+    "date": "2024-12-21",
+    "status": "Pagado",
+    "phone": "090000002",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-022",
+    "name": "Cliente 22",
+    "cedula": "12345700",
+    "date": "2024-12-22",
+    "status": "Pendiente",
+    "phone": "090000002",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-023",
+    "name": "Cliente 23",
+    "cedula": "12345701",
+    "date": "2024-12-23",
+    "status": "Pendiente",
+    "phone": "090000002",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-024",
+    "name": "Cliente 24",
+    "cedula": "12345702",
+    "date": "2024-12-24",
+    "status": "Pagado",
+    "phone": "090000002",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-025",
+    "name": "Cliente 25",
+    "cedula": "12345703",
+    "date": "2024-12-25",
+    "status": "Pendiente",
+    "phone": "090000002",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": false,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-026",
+    "name": "Cliente 26",
+    "cedula": "12345704",
+    "date": "2024-12-26",
+    "status": "Pendiente",
+    "phone": "090000002",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-027",
+    "name": "Cliente 27",
+    "cedula": "12345705",
+    "date": "2024-12-27",
+    "status": "Pagado",
+    "phone": "090000002",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-028",
+    "name": "Cliente 28",
+    "cedula": "12345706",
+    "date": "2024-12-28",
+    "status": "Pendiente",
+    "phone": "090000002",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-029",
+    "name": "Cliente 29",
+    "cedula": "12345707",
+    "date": "2024-12-29",
+    "status": "Pendiente",
+    "phone": "090000002",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-030",
+    "name": "Cliente 30",
+    "cedula": "12345708",
+    "date": "2024-12-30",
+    "status": "Pagado",
+    "phone": "090000003",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": false,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-031",
+    "name": "Cliente 31",
+    "cedula": "12345709",
+    "date": "2024-12-31",
+    "status": "Pendiente",
+    "phone": "090000003",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-032",
+    "name": "Cliente 32",
+    "cedula": "12345710",
+    "date": "2024-12-32",
+    "status": "Pendiente",
+    "phone": "090000003",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-033",
+    "name": "Cliente 33",
+    "cedula": "12345711",
+    "date": "2024-12-33",
+    "status": "Pagado",
+    "phone": "090000003",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-034",
+    "name": "Cliente 34",
+    "cedula": "12345712",
+    "date": "2024-12-34",
+    "status": "Pendiente",
+    "phone": "090000003",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-035",
+    "name": "Cliente 35",
+    "cedula": "12345713",
+    "date": "2024-12-35",
+    "status": "Pendiente",
+    "phone": "090000003",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": false,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-036",
+    "name": "Cliente 36",
+    "cedula": "12345714",
+    "date": "2024-12-36",
+    "status": "Pagado",
+    "phone": "090000003",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-037",
+    "name": "Cliente 37",
+    "cedula": "12345715",
+    "date": "2024-12-37",
+    "status": "Pendiente",
+    "phone": "090000003",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-038",
+    "name": "Cliente 38",
+    "cedula": "12345716",
+    "date": "2024-12-38",
+    "status": "Pendiente",
+    "phone": "090000003",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-039",
+    "name": "Cliente 39",
+    "cedula": "12345717",
+    "date": "2024-12-39",
+    "status": "Pagado",
+    "phone": "090000003",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-040",
+    "name": "Cliente 40",
+    "cedula": "12345718",
+    "date": "2024-12-40",
+    "status": "Pendiente",
+    "phone": "090000004",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": false,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-041",
+    "name": "Cliente 41",
+    "cedula": "12345719",
+    "date": "2024-12-41",
+    "status": "Pendiente",
+    "phone": "090000004",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-042",
+    "name": "Cliente 42",
+    "cedula": "12345720",
+    "date": "2024-12-42",
+    "status": "Pagado",
+    "phone": "090000004",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-043",
+    "name": "Cliente 43",
+    "cedula": "12345721",
+    "date": "2024-12-43",
+    "status": "Pendiente",
+    "phone": "090000004",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-044",
+    "name": "Cliente 44",
+    "cedula": "12345722",
+    "date": "2024-12-44",
+    "status": "Pendiente",
+    "phone": "090000004",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-045",
+    "name": "Cliente 45",
+    "cedula": "12345723",
+    "date": "2024-12-45",
+    "status": "Pagado",
+    "phone": "090000004",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": false,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-046",
+    "name": "Cliente 46",
+    "cedula": "12345724",
+    "date": "2024-12-46",
+    "status": "Pendiente",
+    "phone": "090000004",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-047",
+    "name": "Cliente 47",
+    "cedula": "12345725",
+    "date": "2024-12-47",
+    "status": "Pendiente",
+    "phone": "090000004",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-048",
+    "name": "Cliente 48",
+    "cedula": "12345726",
+    "date": "2024-12-48",
+    "status": "Pagado",
+    "phone": "090000004",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-049",
+    "name": "Cliente 49",
+    "cedula": "12345727",
+    "date": "2024-12-49",
+    "status": "Pendiente",
+    "phone": "090000004",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-050",
+    "name": "Cliente 50",
+    "cedula": "12345728",
+    "date": "2024-12-50",
+    "status": "Pendiente",
+    "phone": "090000005",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": false,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-051",
+    "name": "Cliente 51",
+    "cedula": "12345729",
+    "date": "2024-12-51",
+    "status": "Pagado",
+    "phone": "090000005",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-052",
+    "name": "Cliente 52",
+    "cedula": "12345730",
+    "date": "2024-12-52",
+    "status": "Pendiente",
+    "phone": "090000005",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-053",
+    "name": "Cliente 53",
+    "cedula": "12345731",
+    "date": "2024-12-53",
+    "status": "Pendiente",
+    "phone": "090000005",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-054",
+    "name": "Cliente 54",
+    "cedula": "12345732",
+    "date": "2024-12-54",
+    "status": "Pagado",
+    "phone": "090000005",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-055",
+    "name": "Cliente 55",
+    "cedula": "12345733",
+    "date": "2024-12-55",
+    "status": "Pendiente",
+    "phone": "090000005",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": false,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-056",
+    "name": "Cliente 56",
+    "cedula": "12345734",
+    "date": "2024-12-56",
+    "status": "Pendiente",
+    "phone": "090000005",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-057",
+    "name": "Cliente 57",
+    "cedula": "12345735",
+    "date": "2024-12-57",
+    "status": "Pagado",
+    "phone": "090000005",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-058",
+    "name": "Cliente 58",
+    "cedula": "12345736",
+    "date": "2024-12-58",
+    "status": "Pendiente",
+    "phone": "090000005",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-059",
+    "name": "Cliente 59",
+    "cedula": "12345737",
+    "date": "2024-12-59",
+    "status": "Pendiente",
+    "phone": "090000005",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-060",
+    "name": "Cliente 60",
+    "cedula": "12345738",
+    "date": "2024-12-60",
+    "status": "Pagado",
+    "phone": "090000006",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": false,
+      "11/2024": false,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-061",
+    "name": "Cliente 61",
+    "cedula": "12345739",
+    "date": "2024-12-61",
+    "status": "Pendiente",
+    "phone": "090000006",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-062",
+    "name": "Cliente 62",
+    "cedula": "12345740",
+    "date": "2024-12-62",
+    "status": "Pendiente",
+    "phone": "090000006",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-063",
+    "name": "Cliente 63",
+    "cedula": "12345741",
+    "date": "2024-12-63",
+    "status": "Pagado",
+    "phone": "090000006",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-064",
+    "name": "Cliente 64",
+    "cedula": "12345742",
+    "date": "2024-12-64",
+    "status": "Pendiente",
+    "phone": "090000006",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-065",
+    "name": "Cliente 65",
+    "cedula": "12345743",
+    "date": "2024-12-65",
+    "status": "Pendiente",
+    "phone": "090000006",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": false,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-066",
+    "name": "Cliente 66",
+    "cedula": "12345744",
+    "date": "2024-12-66",
+    "status": "Pagado",
+    "phone": "090000006",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-067",
+    "name": "Cliente 67",
+    "cedula": "12345745",
+    "date": "2024-12-67",
+    "status": "Pendiente",
+    "phone": "090000006",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-068",
+    "name": "Cliente 68",
+    "cedula": "12345746",
+    "date": "2024-12-68",
+    "status": "Pendiente",
+    "phone": "090000006",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-069",
+    "name": "Cliente 69",
+    "cedula": "12345747",
+    "date": "2024-12-69",
+    "status": "Pagado",
+    "phone": "090000006",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-070",
+    "name": "Cliente 70",
+    "cedula": "12345748",
+    "date": "2024-12-70",
+    "status": "Pendiente",
+    "phone": "090000007",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": false,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-071",
+    "name": "Cliente 71",
+    "cedula": "12345749",
+    "date": "2024-12-71",
+    "status": "Pendiente",
+    "phone": "090000007",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-072",
+    "name": "Cliente 72",
+    "cedula": "12345750",
+    "date": "2024-12-72",
+    "status": "Pagado",
+    "phone": "090000007",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-073",
+    "name": "Cliente 73",
+    "cedula": "12345751",
+    "date": "2024-12-73",
+    "status": "Pendiente",
+    "phone": "090000007",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-074",
+    "name": "Cliente 74",
+    "cedula": "12345752",
+    "date": "2024-12-74",
+    "status": "Pagado",
+    "phone": "090000007",
+    "updateAt": "2024-12-26T16:03:05.435Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-075",
+    "name": "Cliente 75",
+    "cedula": "12345753",
+    "date": "2024-12-75",
+    "status": "Pagado",
+    "phone": "090000007",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": false,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-076",
+    "name": "Cliente 76",
+    "cedula": "12345754",
+    "date": "2024-12-76",
+    "status": "Pendiente",
+    "phone": "090000007",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-077",
+    "name": "Cliente 77",
+    "cedula": "12345755",
+    "date": "2024-12-77",
+    "status": "Pendiente",
+    "phone": "090000007",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-078",
+    "name": "Cliente 78",
+    "cedula": "12345756",
+    "date": "2024-12-78",
+    "status": "Pagado",
+    "phone": "090000007",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-079",
+    "name": "Cliente 79",
+    "cedula": "12345757",
+    "date": "2024-12-79",
+    "status": "Pendiente",
+    "phone": "090000007",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-080",
+    "name": "Cliente 80",
+    "cedula": "12345758",
+    "date": "2024-12-80",
+    "status": "Pendiente",
+    "phone": "090000008",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": false,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-081",
+    "name": "Cliente 81",
+    "cedula": "12345759",
+    "date": "2024-12-81",
+    "status": "Pagado",
+    "phone": "090000008",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-082",
+    "name": "Cliente 82",
+    "cedula": "12345760",
+    "date": "2024-12-82",
+    "status": "Pendiente",
+    "phone": "090000008",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-083",
+    "name": "Cliente 83",
+    "cedula": "12345761",
+    "date": "2024-12-83",
+    "status": "Pendiente",
+    "phone": "090000008",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-084",
+    "name": "Cliente 84",
+    "cedula": "12345762",
+    "date": "2024-12-84",
+    "status": "Pagado",
+    "phone": "090000008",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-085",
+    "name": "Cliente 85",
+    "cedula": "12345763",
+    "date": "2024-12-85",
+    "status": "Pendiente",
+    "phone": "090000008",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": false,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-086",
+    "name": "Cliente 86",
+    "cedula": "12345764",
+    "date": "2024-12-86",
+    "status": "Pendiente",
+    "phone": "090000008",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-087",
+    "name": "Cliente 87",
+    "cedula": "12345765",
+    "date": "2024-12-87",
+    "status": "Pagado",
+    "phone": "090000008",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-088",
+    "name": "Cliente 88",
+    "cedula": "12345766",
+    "date": "2024-12-88",
+    "status": "Pendiente",
+    "phone": "090000008",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-089",
+    "name": "Cliente 89",
+    "cedula": "12345767",
+    "date": "2024-12-89",
+    "status": "Pendiente",
+    "phone": "090000008",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-090",
+    "name": "Cliente 90",
+    "cedula": "12345768",
+    "date": "2024-12-90",
+    "status": "Pagado",
+    "phone": "090000009",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": false,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-091",
+    "name": "Cliente 91",
+    "cedula": "12345769",
+    "date": "2024-12-91",
+    "status": "Pendiente",
+    "phone": "090000009",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-092",
+    "name": "Cliente 92",
+    "cedula": "12345770",
+    "date": "2024-12-92",
+    "status": "Pendiente",
+    "phone": "090000009",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-093",
+    "name": "Cliente 93",
+    "cedula": "12345771",
+    "date": "2024-12-93",
+    "status": "Pagado",
+    "phone": "090000009",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-094",
+    "name": "Cliente 94",
+    "cedula": "12345772",
+    "date": "2024-12-94",
+    "status": "Pendiente",
+    "phone": "090000009",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-095",
+    "name": "Cliente 95",
+    "cedula": "12345773",
+    "date": "2024-12-95",
+    "status": "Pendiente",
+    "phone": "090000009",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": false,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-096",
+    "name": "Cliente 96",
+    "cedula": "12345774",
+    "date": "2024-12-96",
+    "status": "Pagado",
+    "phone": "090000009",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": false,
+      "10/2024": false,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-097",
+    "name": "Cliente 97",
+    "cedula": "12345775",
+    "date": "2024-12-97",
+    "status": "Pendiente",
+    "phone": "090000009",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-098",
+    "name": "Cliente 98",
+    "cedula": "12345776",
+    "date": "2024-12-98",
+    "status": "Pendiente",
+    "phone": "090000009",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": false
+    }
+  },
+  {
+    "id": "id-099",
+    "name": "Cliente 99",
+    "cedula": "12345777",
+    "date": "2024-12-99",
+    "status": "Pagado",
+    "phone": "090000009",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": true,
+      "08/2024": false,
+      "09/2024": false,
+      "10/2024": true,
+      "11/2024": true,
+      "12/2024": true
+    }
+  },
+  {
+    "id": "id-100",
+    "name": "Cliente 100",
+    "cedula": "12345778",
+    "date": "2024-12-100",
+    "status": "Pendiente",
+    "phone": "090000010",
+    "updateAt": "2024-12-26T15:52:48.938Z",
+    "paymentHistory": {
+      "07/2024": false,
+      "08/2024": true,
+      "09/2024": true,
+      "10/2024": false,
+      "11/2024": false,
+      "12/2024": false
+    }
+  }
+]
