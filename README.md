@@ -65,7 +65,7 @@ Si deseas contribuir a este proyecto:
 
 ## Contacto
 
-Para preguntas, sugerencias o reportar problemas, puedes abrir un issue en este repositorio o contactarme a través de mi correo electrónico: [tu-email@example.com](mailto:tu-email@example.com).
+Puedes contactarme para trabajos como este via [vortexwebs.com](https://vortexwebs.com)
 
 ---
 ¡Gracias por tu interés en este proyecto! 🚀
