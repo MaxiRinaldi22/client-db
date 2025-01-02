@@ -32,23 +32,6 @@
     }
   },
   {
-    "id": "id-006",
-    "name": "Cliente 6",
-    "cedula": "12345684",
-    "date": "2024-12-06",
-    "status": "Pagado",
-    "phone": "090000000",
-    "updateAt": "2024-12-26T15:52:48.938Z",
-    "paymentHistory": {
-      "07/2024": false,
-      "08/2024": true,
-      "09/2024": false,
-      "10/2024": true,
-      "11/2024": true,
-      "12/2024": false
-    }
-  },
-  {
     "id": "id-007",
     "name": "Cliente 7",
     "cedula": "12345685",

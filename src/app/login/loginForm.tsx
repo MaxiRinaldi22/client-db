@@ -6,14 +6,7 @@ import { login } from "../actions/auth";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+import { Card, CardContent, CardFooter } from "@/components/ui/card";
 import { Alert, AlertDescription } from "@/components/ui/alert";
 
 export default function LoginForm() {
@@ -30,21 +23,15 @@ export default function LoginForm() {
   }
 
   return (
-    <Card>
-      <CardHeader>
-        <CardTitle>Login</CardTitle>
-        <CardDescription>
-          Enter your credentials to access your account
-        </CardDescription>
-      </CardHeader>
+    <Card className="pt-4">
       <form action={handleSubmit}>
         <CardContent className="space-y-4">
           <div className="space-y-2">
-            <Label htmlFor="email">Email</Label>
+            <Label htmlFor="email">Mail</Label>
             <Input id="email" name="email" type="email" required />
           </div>
           <div className="space-y-2">
-            <Label htmlFor="password">Password</Label>
+            <Label htmlFor="password">Contraseña</Label>
             <Input id="password" name="password" type="password" required />
           </div>
           {error && (
@@ -55,7 +42,7 @@ export default function LoginForm() {
         </CardContent>
         <CardFooter>
           <Button type="submit" className="w-full">
-            Login
+            Entrar
           </Button>
         </CardFooter>
       </form>
